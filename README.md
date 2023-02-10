@@ -1,4 +1,4 @@
-# Idiat-Alli
+# Hotel Bookings
 This is a SQL project using 2 hotels dataset for three consecutive years. This is an end to end project that also involves visualizations using Power Bi to show bookings and trends in the hotels for the three years.
 
 # Business Questions #
